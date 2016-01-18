@@ -1,5 +1,5 @@
 ## ztools
-#### platfrom independent wrapper for running and benchmarking Zonation
+#### platform independent wrapper for running and benchmarking Zonation
 
 [Zonation](http://cbig.it.helsinki.fi/software/zonation/) conservation 
 prioritization software can be run using both a GUI and command line interface. 
